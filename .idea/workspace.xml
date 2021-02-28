@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e08a0cfc-432d-4c91-99a7-030e2f93b2a3" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>studentsign</find>
+      <find>seat</find>
+      <find>setZ</find>
+      <find>state</find>
+      <find>signitem</find>
+      <find>signtiemid</find>
+      <find>classdata</find>
+      <find>hashSeat</find>
+      <find>seatArray</find>
+      <find>getSignSeatData</find>
+      <find>classactions</find>
+      <find>onSelect</find>
+      <find>show</find>
+      <find>tableData</find>
+      <find>bar</find>
+      <find>wrapper</find>
+      <find>inner-seat-wrapper</find>
+      <find>dialogshow</find>
+      <find>testpoint</find>
+      <find>typeshow</find>
+      <find>typeactions</find>
+      <find>seatRow</find>
+      <find>seatarray</find>
+      <find>testbut</find>
+      <find>type</find>
+      <find>major</find>
+      <find>wifilist</find>
+      <find>cicleGetWifi</find>
+      <find>test</find>
+      <find>wifi/nn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>signdata</replace>
+      <replace>{ }</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\thesis\cordova-vue</dir>
+      <dir>F:\thesis\cordova-vue\platforms\android</dir>
+    </dirStrings>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/plugins/phonegap-plugin-barcodescanner/node_modules" />
+    <handled-path value="$PROJECT_DIR$/vue-app/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/plugins/com.pylonproducts.wifiwizard/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-baidumaplocation/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/ios/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-camera/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-compat/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-device/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-geolocation/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-hotspot/example/hotspot-app/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-hotspot/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-statusbar/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-vibration/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-vibration/tests/package.json" />
+      <path value="$PROJECT_DIR$/plugins/cordova-plugin-whitelist/package.json" />
+      <path value="$PROJECT_DIR$/plugins/es6-promise-plugin/package.json" />
+      <path value="$PROJECT_DIR$/plugins/phonegap-plugin-barcodescanner/package.json" />
+      <path value="$PROJECT_DIR$/plugins/wifiwizard2/package.json" />
+      <path value="$PROJECT_DIR$/vue-app/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/vue-app/package.json" />
+  </component>
+  <component name="ProjectId" id="1o3T3yUCQG2A95SdTWhN5JOMvgz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\thesis\cordova-vue\vue-app\src\assets\jsondata" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\components" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\assets" />
+      <recent name="E:\thesis\cordova-vue\vue-app" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\thesis\cordova-vue\vue-app\src\components" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\pages\seat" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\pages\sign" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\pages\schedule" />
+      <recent name="E:\thesis\cordova-vue\vue-app\src\pages\register" />
+    </key>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Gravel\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e08a0cfc-432d-4c91-99a7-030e2f93b2a3" name="Default" comment="" />
+      <created>1561723508450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561723508450</updated>
+      <workItem from="1561723510330" duration="1010000" />
+      <workItem from="1561774421901" duration="2146000" />
+      <workItem from="1561777293637" duration="23000" />
+      <workItem from="1561789316463" duration="32000" />
+      <workItem from="1561866702352" duration="11386000" />
+      <workItem from="1561883447733" duration="1638000" />
+      <workItem from="1561910120303" duration="2265000" />
+      <workItem from="1561948428166" duration="12944000" />
+      <workItem from="1561967664335" duration="7605000" />
+      <workItem from="1561993569997" duration="4340000" />
+      <workItem from="1562037392138" duration="10055000" />
+      <workItem from="1562079645776" duration="4351000" />
+      <workItem from="1562231772585" duration="10623000" />
+      <workItem from="1562322999234" duration="7544000" />
+      <workItem from="1562404412557" duration="9455000" />
+      <workItem from="1562555970971" duration="6157000" />
+      <workItem from="1562830671876" duration="7212000" />
+      <workItem from="1562848603258" duration="644000" />
+      <workItem from="1562900897912" duration="6774000" />
+      <workItem from="1562914885624" duration="217000" />
+      <workItem from="1562932727169" duration="270000" />
+      <workItem from="1563283252974" duration="650000" />
+      <workItem from="1563592216712" duration="5000" />
+      <workItem from="1563780988554" duration="7757000" />
+      <workItem from="1563843599205" duration="642000" />
+      <workItem from="1564122181613" duration="4036000" />
+      <workItem from="1564138852630" duration="5413000" />
+      <workItem from="1564197181435" duration="7579000" />
+      <workItem from="1564219198810" duration="651000" />
+      <workItem from="1564281021388" duration="10153000" />
+      <workItem from="1564294693286" duration="1769000" />
+      <workItem from="1564296958536" duration="9000" />
+      <workItem from="1564301079511" duration="127000" />
+      <workItem from="1564317319777" duration="3849000" />
+      <workItem from="1564365636266" duration="9108000" />
+      <workItem from="1564379930322" duration="1501000" />
+      <workItem from="1564445435924" duration="3448000" />
+      <workItem from="1564539853093" duration="5292000" />
+      <workItem from="1564668030927" duration="1685000" />
+      <workItem from="1564843126661" duration="3062000" />
+      <workItem from="1565011460053" duration="1566000" />
+      <workItem from="1566010995692" duration="11651000" />
+      <workItem from="1566031735710" duration="714000" />
+      <workItem from="1566032636578" duration="145000" />
+      <workItem from="1566032844281" duration="159000" />
+      <workItem from="1566033574656" duration="1113000" />
+      <workItem from="1566055641181" duration="4459000" />
+      <workItem from="1566100671514" duration="3649000" />
+      <workItem from="1566227068170" duration="2674000" />
+      <workItem from="1566570878235" duration="3975000" />
+      <workItem from="1566663148765" duration="3956000" />
+      <workItem from="1566897154157" duration="146000" />
+      <workItem from="1567005736308" duration="4145000" />
+      <workItem from="1567179562174" duration="2859000" />
+      <workItem from="1567264619243" duration="1649000" />
+      <workItem from="1567867448576" duration="5927000" />
+      <workItem from="1567907302959" duration="4210000" />
+      <workItem from="1568128831386" duration="4571000" />
+      <workItem from="1568717935484" duration="7770000" />
+      <workItem from="1568815902082" duration="5773000" />
+      <workItem from="1568890965861" duration="623000" />
+      <workItem from="1568948781417" duration="1971000" />
+      <workItem from="1569052526357" duration="16919000" />
+      <workItem from="1569116171279" duration="955000" />
+      <workItem from="1569121116991" duration="9720000" />
+      <workItem from="1569245672978" duration="2781000" />
+      <workItem from="1569293281825" duration="6780000" />
+      <workItem from="1569335876883" duration="5909000" />
+      <workItem from="1569381987296" duration="7095000" />
+      <workItem from="1569428861771" duration="554000" />
+      <workItem from="1569469660775" duration="15630000" />
+      <workItem from="1581170973107" duration="187546000" />
+      <workItem from="1583333674247" duration="9397000" />
+      <workItem from="1583472491256" duration="9746000" />
+      <workItem from="1583574143026" duration="12818000" />
+      <workItem from="1584291082960" duration="905000" />
+      <workItem from="1584457259735" duration="1272000" />
+      <workItem from="1584931412281" duration="601000" />
+      <workItem from="1584970818401" duration="658000" />
+      <workItem from="1585145856880" duration="2435000" />
+      <workItem from="1585710685432" duration="7462000" />
+      <workItem from="1586258519853" duration="7875000" />
+      <workItem from="1588551742472" duration="10494000" />
+      <workItem from="1589189198734" duration="98000" />
+      <workItem from="1589593662432" duration="296000" />
+      <workItem from="1589805460892" duration="3549000" />
+      <workItem from="1589979281825" duration="1238000" />
+      <workItem from="1590065071437" duration="1217000" />
+      <workItem from="1590199273663" duration="1752000" />
+      <workItem from="1590321703322" duration="1267000" />
+      <workItem from="1590452969259" duration="2686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="638890000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.properties" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="126" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612533654543">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="126" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1612533654543" />
+    <state x="93" y="93" width="1095" height="495" key="AVDManager" timestamp="1612534836421">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="AVDManager/0.0.1280.680@0.0.1280.680" timestamp="1612534836421" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1612532836053">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1612532836053" />
+  </component>
+</project>

@@ -1,0 +1,53 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "phonegap-plugin-barcodescanner": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "cordova-plugin-baidumaplocation": {
+      "ANDROID_KEY": "4qzj4lsfwGX2YKtsPtKxwVpsvErf9DtU",
+      "IOS_KEY": "4qzj4lsfwGX2YKtsPtKxwVpsvErf9DtU",
+      "IOS_LOCATION_DESC": "请点击'好'以允许访问。",
+      "PACKAGE_NAME": "io.cordova.hellocordova"
+    },
+    "com.pylonproducts.wifiwizard": {
+      "PACKAGE_NAME": "io.cordova.thesistest"
+    },
+    "wifiwizard2": {
+      "PACKAGE_NAME": "io.cordova.thesistest"
+    },
+    "cordova-plugin-hotspot": {
+      "PACKAGE_NAME": "io.cordova.thesistest"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "io.cordova.thesistest"
+    }
+  },
+  "dependent_plugins": {
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "io.cordova.thesistest"
+    }
+  }
+}

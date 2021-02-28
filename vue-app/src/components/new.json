@@ -1,0 +1,147 @@
+{
+  "code":200,
+
+  "data":[
+
+    [
+
+      {"state":0,"signdata":{ "name": "mike", "class": "软件161", "stu_code": "3160407134" }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":-1,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":-1,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":2,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":2,"signdata":{ }},
+
+      {"state":2,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":2,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ],
+
+    [
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":3,"signdata":{ }}, {"state":3,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }},
+
+      {"state":0,"signdata":{ }}, {"state":0,"signdata":{ }}
+
+    ]
+
+  ]
+}
